@@ -1,4 +1,4 @@
-theme:"Cayman"
+theme:Cayman
 ---------------------
 git hub
 ---------------------
