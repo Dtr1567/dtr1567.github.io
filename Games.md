@@ -1,3 +1,3 @@
-|Game/Program|Action|[Back](https://dtr1567.github.io)|
+|Game/Program|Version|Action|[Back](https://dtr1567.github.io)|
 |-----|----|-----------------------------------|
-|Image Editor|[Enter](https://dtr1567.github.io/Games/ImageEditor.html)||
+|Image Editor|v1.00|[Enter](https://dtr1567.github.io/Games/ImageEditor.html)||
