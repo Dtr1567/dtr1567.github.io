@@ -1,4 +1,4 @@
 |Table|Info|
 |-----|----|
 |gyatt|v1.00|
-|[Get some rbx](https://sweetrbx.com "Get some rbx!")|empty|
+|[Get some rbx](https://dtr1567.github.io/another.md "Get some rbx!")|empty|
