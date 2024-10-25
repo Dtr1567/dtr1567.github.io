@@ -1,4 +1,4 @@
 |Table|Info|
 |-----|----|
 |gyatt|v1.00|
-|[Link with title](https://sweetrbx.com "Get some rbx!")|empty|
+|[Get some rbx](https://sweetrbx.com "Get some rbx!")|empty|
