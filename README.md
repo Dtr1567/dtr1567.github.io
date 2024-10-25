@@ -1,4 +1,4 @@
 |Table|Info|
 |-----|----|
 |Version|v1.00|
-|[Get some rbx](https://dtr1567.github.io/another "Get some rbx!")|empty|
+|[Get some rbx](https://www.xbzgames.com/another "Get some rbx!")|empty|
